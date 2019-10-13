@@ -1,4 +1,4 @@
-# 100 Days of Swift
+# 100 Days of SwiftUI
 
 If you’re following the [100 Days of SwiftUI challenge](https://www.hackingwithswift.com/100/swiftui) you’ll know there are lots of challenges that make you write code early and often – it’s the most powerful way to learn.
 
@@ -17,7 +17,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 1
 
-* [Will-1-Am](https://github.com/Will-1-Am/100DaysOfSwift/tree/master/Project01)
+* [Will-1-Am](https://github.com/Will-1-Am/SwiftUI100/tree/master/Project01)
 
 <p>&nbsp;</p>
 
