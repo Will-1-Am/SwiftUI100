@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Project03 Challenge 1'/>
+        <page name='view builders'/>
+        <page name='Custom containers'/>
+        <page name='Custom modifiers2'/>
+        <page name='Custom modifiers'/>
+        <page name='View Composition'/>
+        <page name='Views as properties'/>
+        <page name='Modifiers'/>
+        <page name='What is behind SwiftUI View?'/>
+    </pages>
+</playground>
