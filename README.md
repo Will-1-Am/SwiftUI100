@@ -15,17 +15,17 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 
 
-## Project 1
+## Project 1 WeSplit
 * [Will-1-Am](https://github.com/Will-1-Am/SwiftUI100/tree/master/Project01)
 
 <p>&nbsp;</p>
 
-## Project 2
+## Project 2 Guess the Flag
 * [Will-1-Am](https://github.com/Will-1-Am/SwiftUI100/tree/master/Project02)
 
 <p>&nbsp;</p>
 
-## Project 3
+## Project 3 Views and modifiers
 * [Will-1-Am](https://github.com/Will-1-Am/SwiftUI100/tree/master/Project03)
 
 <p>&nbsp;</p>
