@@ -35,4 +35,9 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 <p>&nbsp;</p>
 
-## Project 5
+## Project 5 Word Scramble
+* [Will-1-Am](https://github.com/Will-1-Am/SwiftUI100/tree/master/Project05)
+
+<p>&nbsp;</p>
+
+## Project 6 
