@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='08 Custom Transitions'/>
+        <page name='07 Transitions'/>
+        <page name='06 Animating gestures'/>
+        <page name='05 Controlling the animation stack'/>
+        <page name='04 Creating explicit animations'/>
+        <page name='03 Animating bindings'/>
+        <page name='02 Customizing animations in SwiftUI'/>
+        <page name='01 Create Implicit Animations'/>
+        <page name='Project06 Challenge 1 GuessTheFlag'/>
+    </pages>
+</playground>
