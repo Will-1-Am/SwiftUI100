@@ -40,4 +40,9 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 <p>&nbsp;</p>
 
-## Project 6 
+## Project 6 Animation
+* [Will-1-Am](https://github.com/Will-1-Am/SwiftUI100/tree/master/Project06)
+
+<p>&nbsp;</p>
+
+## Project 7 
