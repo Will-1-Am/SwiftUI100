@@ -45,4 +45,9 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 <p>&nbsp;</p>
 
-## Project 7 
+## Project 7 iExpense 
+* [Will-1-Am](https://github.com/Will-1-Am/SwiftUI100/tree/master/Project07)
+
+<p>&nbsp;</p>
+
+## Project 8 Moonshot 
