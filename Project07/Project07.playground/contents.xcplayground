@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Challenge 2 Conditional Text Formatting'/>
+        <page name='06 Archiving Swift objects with Codable'/>
+        <page name='05 Storing user settings with UserDefaults'/>
+        <page name='04 Deleting items using onDelete()'/>
+        <page name='03 Showing and hiding views'/>
+        <page name='02 Sharing SwiftUI state with @ObservedObject'/>
+        <page name='01 Why @State only works with structs'/>
+        <page name='Untitled Page'/>
+        <page name='@Environment'/>
+    </pages>
+</playground>
