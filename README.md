@@ -60,4 +60,14 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 <p>&nbsp;</p>
 
-## Project 10
+## Project 10 Cupcake Corner
+* [Will-1-Am](https://github.com/Will-1-Am/SwiftUI100/tree/master/Project10)
+
+<p>&nbsp;</p>
+
+## Project 11 Bookworm
+* [Will-1-Am](https://github.com/Will-1-Am/SwiftUI100/tree/master/Project11)
+
+<p>&nbsp;</p>
+
+## Project 12
