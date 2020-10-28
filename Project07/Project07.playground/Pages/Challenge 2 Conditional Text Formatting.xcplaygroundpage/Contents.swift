@@ -56,7 +56,7 @@ struct AddView: View {
             .navigationBarItems(trailing: Button("Save") {
                 if let actualAmount = Int(self.amount) {
                     let item = ExpenseItem(name: self.name, type: self.type, amount: actualAmount)
-                    self.expenses.item.append(item)
+//                    self.expenses.item.append(item)
                     self.presentationMode.wrappedValue.dismiss()
                 }
             })
@@ -80,3 +80,9 @@ let host = UIHostingController(rootView: ContentView())
 PlaygroundPage.current.liveView = host
 
 //: [Next](@next)
+
+struct Contents_Previews: PreviewProvider {
+    static var previews: some View {
+        /*@START_MENU_TOKEN@*/Text("Hello, World!")/*@END_MENU_TOKEN@*/
+    }
+}
