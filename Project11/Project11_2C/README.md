@@ -1,6 +1,6 @@
 # Project11 - Bookworm - Challenge 2
 
-Build a multi-screen app for ordering cupcakes, using forms validation and sending and receiving the order data via the internet.
+Build an app to track which books you’ve read and what you thought of them using CoreData, a star rating widget and the @Binding property wrapper.
 
 Challenge 2 - Modify ContentView so that books rated as 1 star have their name shown in red.
 
