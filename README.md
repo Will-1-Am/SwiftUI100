@@ -70,4 +70,22 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 <p>&nbsp;</p>
 
-## Project 12
+## Project 12 CoreData
+* [Will-1-Am](https://github.com/Will-1-Am/SwiftUI100/tree/master/Project12)
+
+<p>&nbsp;</p>
+
+## Project 13 Instafilter
+* [Will-1-Am](https://github.com/Will-1-Am/SwiftUI100/tree/master/Project13)
+
+<p>&nbsp;</p>
+
+## Project 14 Bucket List
+* [Will-1-Am](https://github.com/Will-1-Am/SwiftUI100/tree/master/Project14)
+
+<p>&nbsp;</p>
+
+## Project 15 Accessibility
+* [Will-1-Am](https://github.com/Will-1-Am/SwiftUI100/tree/master/Project15)
+
+<p>&nbsp;</p>
