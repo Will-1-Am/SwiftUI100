@@ -1,4 +1,4 @@
-# Project13 - Instafilter - Challenge 1
+# Project13 - Instafilter - Challenge 2
 
 The first of two projects exploring how SwiftUI can connect with other Apple frameworks.  This project builds an app that lets the user import photos from their library, then modify them using various image effects.
 
